@@ -1,40 +1,24 @@
 # Changelog
 
-## [1.0.2](https://github.com/dev-sec/php-baseline/tree/1.0.2) (2020-06-18)
+## [0.0.1](https://github.com/NeatNerdPrime/php-baseline/tree/0.0.1) (2020-06-18)
 
-[Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.1...1.0.2)
-
-**Merged pull requests:**
-
-- github actions release [\#8](https://github.com/dev-sec/php-baseline/pull/8) ([micheelengronne](https://github.com/micheelengronne))
-- Update issue templates [\#7](https://github.com/dev-sec/php-baseline/pull/7) ([rndmh3ro](https://github.com/rndmh3ro))
-- use recommended spdx license identifier [\#6](https://github.com/dev-sec/php-baseline/pull/6) ([chris-rock](https://github.com/chris-rock))
-- spell correction in disable\_functions [\#5](https://github.com/dev-sec/php-baseline/pull/5) ([TLoebner](https://github.com/TLoebner))
-
-## [1.0.1](https://github.com/dev-sec/php-baseline/tree/1.0.1) (2017-05-08)
-
-[Full Changelog](https://github.com/dev-sec/php-baseline/compare/1.0.0...1.0.1)
+[Full Changelog](https://github.com/NeatNerdPrime/php-baseline/compare/1.0.1...0.0.1)
 
 **Merged pull requests:**
 
-- update metadata [\#4](https://github.com/dev-sec/php-baseline/pull/4) ([chris-rock](https://github.com/chris-rock))
-- restrict ruby testing to version 2.3.3 and update gemfile [\#3](https://github.com/dev-sec/php-baseline/pull/3) ([atomic111](https://github.com/atomic111))
+- \[pull\] master from dev-sec:master [\#1](https://github.com/NeatNerdPrime/php-baseline/pull/1) ([pull[bot]](https://github.com/apps/pull))
 
-## [1.0.0](https://github.com/dev-sec/php-baseline/tree/1.0.0) (2016-12-22)
+## [1.0.1](https://github.com/NeatNerdPrime/php-baseline/tree/1.0.1) (2017-05-08)
 
-[Full Changelog](https://github.com/dev-sec/php-baseline/compare/0.1.0...1.0.0)
+[Full Changelog](https://github.com/NeatNerdPrime/php-baseline/compare/1.0.0...1.0.1)
 
-**Merged pull requests:**
+## [1.0.0](https://github.com/NeatNerdPrime/php-baseline/tree/1.0.0) (2016-12-22)
 
-- migrate from Serverspec to InSpec [\#2](https://github.com/dev-sec/php-baseline/pull/2) ([chris-rock](https://github.com/chris-rock))
+[Full Changelog](https://github.com/NeatNerdPrime/php-baseline/compare/0.1.0...1.0.0)
 
-## [0.1.0](https://github.com/dev-sec/php-baseline/tree/0.1.0) (2016-11-09)
+## [0.1.0](https://github.com/NeatNerdPrime/php-baseline/tree/0.1.0) (2016-11-09)
 
-[Full Changelog](https://github.com/dev-sec/php-baseline/compare/f0de42996b3299ac0e9dc2821c693612f6134cbb...0.1.0)
-
-**Merged pull requests:**
-
-- fix typo in license header [\#1](https://github.com/dev-sec/php-baseline/pull/1) ([chris-rock](https://github.com/chris-rock))
+[Full Changelog](https://github.com/NeatNerdPrime/php-baseline/compare/f0de42996b3299ac0e9dc2821c693612f6134cbb...0.1.0)
 
 
 
